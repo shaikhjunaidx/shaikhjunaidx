@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hey there! 👋🏻</h1>
+<h1 align="center">Hey there! 👋🏻 I'm Junaid.</h1>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Junaid, a passionate software engineer with a knack for enhancing system efficiency and tackling complex technical challenges. When I'm not coding, you'll find me exploring the latest tech trends, cooking up new recipes, gaming, or playing the guitar.</p>
+<p align="left">I'm Junaid, a passionate software engineer with a knack for enhancing system efficiency and tackling complex technical challenges. I graduated with an MS in Computer Science from RIT, where I focused on computer vision, cloud computing, and big data. When I'm not coding, you'll find me exploring the latest tech trends, whipping up new recipes in the kitchen, gaming, or strumming my guitar.</p>
 
 ###
 
@@ -136,19 +136,5 @@ Here are some of the fun and exciting projects I've worked on:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaikhjunaidx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shaikhjunaidx/shaikhjunaidx/output/snake.svg" alt="Snake animation" />
 
 ###
