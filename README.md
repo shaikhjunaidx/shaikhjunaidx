@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="/me.jpg"/>
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Junaid, a passionate software engineer with a knack for enhancing system efficiency and tackling complex technical challenges. I graduated with an MS in Computer Science from RIT, where I focused on computer vision, cloud computing, and big data. When I'm not coding, you'll find me exploring the latest tech trends, whipping up new recipes in the kitchen, gaming, or strumming my guitar.</p>
+<p align="left">I'm a passionate software engineer with a knack for enhancing system efficiency and tackling complex technical challenges. I graduated with an MS in Computer Science from RIT, where I focused on computer vision, cloud computing, and big data. When I'm not coding, you'll find me exploring the latest tech trends, whipping up new recipes in the kitchen, gaming, or strumming my guitar.</p>
 
 ###
 
@@ -136,5 +136,30 @@ Here are some of the fun and exciting projects I've worked on:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shaikhjunaidx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhjunaidx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/shaikhjunaidx/shaikhjunaidx/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaikhjunaidx.shaikhjunaidx&"  />
+</div>
+
 
 ###
