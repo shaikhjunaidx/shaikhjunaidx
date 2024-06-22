@@ -29,7 +29,31 @@
 
 ###
 
-<p align="left">Here are a few roles and qualities that define who I am:<br><br>- 🚀 **Innovator:** Always on the lookout for new technologies and ways to improve existing systems.<br>- 🛠 **Builder:** Skilled in building robust, scalable applications using cloud technologies.<br>- 🎨 **Creative Thinker:** Combining creativity and technical skills to develop unique solutions.<br>- 📚 **Mentor:** Enjoy teaching and helping others grow their technical skills.<br>- 🎓 **Learner:** Continuously learning and expanding my knowledge in software development, AI, and machine learning.</p>
+<p align="left">Here are a few roles and qualities that define who I am:<br><br>🚀 <strong>Innovator:</strong> Always on the lookout for new technologies and ways to improve existing systems.<br>🛠 <strong>Builder:</strong> Skilled in building robust, scalable applications using cloud technologies.<br>🎨 <strong>Creative Thinker:</strong> Combining creativity and technical skills to develop unique solutions.<br>📚 <strong>Mentor:</strong> Enjoy teaching and helping others grow their technical skills.<br>🎓 <strong>Learner:</strong> Continuously learning and expanding my knowledge in software development, AI, and machine learning.
+
+###
+
+### 🧑‍💻 Currently Working On
+
+###
+
+📚 **Studying GoLang:** Currently deepening my knowledge of GoLang, exploring its powerful features for building efficient and scalable applications.
+
+🔗 **Integrating Technologies:** Working on projects that leverage Docker and Kubernetes to enhance deployment and manage infrastructure.
+
+###
+
+### 🏗️👨🏻‍💻 Recent Projects
+
+###
+
+Here are some of the fun and exciting projects I've worked on:
+
+- 🌐 **Cloud-Based Security System:** Developed a facial recognition system using AWS and Terraform, making security smarter and faster. 🔒
+
+- 🍃 **Poison Ivy Detection:** Used machine learning to create a system that identifies poison ivy with 92% accuracy—nature hikes just got safer! 🌿
+
+- ✈️ **Airline Route Analysis:** Analyzed flight data to predict delays and improve travel experiences—because who likes waiting at the airport? 🛄
 
 ###
 
@@ -68,7 +92,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
