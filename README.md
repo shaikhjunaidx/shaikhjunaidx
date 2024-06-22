@@ -33,6 +33,30 @@
 
 ###
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shaikhjunaidx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhjunaidx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/shaikhjunaidx/shaikhjunaidx/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaikhjunaidx.shaikhjunaidx&"  />
+</div>
+
 ### 🧑‍💻 Currently Working On
 
 ###
@@ -136,30 +160,5 @@ Here are some of the fun and exciting projects I've worked on:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaikhjunaidx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhjunaidx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shaikhjunaidx/shaikhjunaidx/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaikhjunaidx.shaikhjunaidx&"  />
-</div>
-
 
 ###
